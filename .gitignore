@@ -1,0 +1,5 @@
+__pycache__/
+vault.json
+.bak/
+.venv/
+src/vault.json
